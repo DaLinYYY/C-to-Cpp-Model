@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.s": "c",
+        "class_io.h": "c"
+    }
+}
