@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.s": "c",
-        "class_io.h": "c"
+        "class_io.h": "c",
+        "device_io.h": "c"
     }
 }
